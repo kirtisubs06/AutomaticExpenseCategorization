@@ -1,2 +1,6 @@
-streamlit
-pandas
+streamlit~=1.40.2
+pandas~=2.2.3
+vertexai~=1.71.1
+openai~=0.28.0
+matplotlib~=3.9.3
+seaborn~=0.13.2
